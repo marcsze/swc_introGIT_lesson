@@ -78,5 +78,9 @@ There shouldn't be any need to get data since it will all be generated during th
   * "Checking Understanding", "Getting Rid of Staged Changes", and "Explore and Summarize Histories"
 
 
+### Ignoring Things
 
+* This is a pretty straightforward lesson and I can go through it as is. It can be found [here](https://swcarpentry.github.io/git-novice/06-ignore/)
+
+### 
 
