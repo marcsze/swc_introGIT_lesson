@@ -55,6 +55,28 @@ There shouldn't be any need to get data since it will all be generated during th
 * The lesson can be found [here](https://swcarpentry.github.io/git-novice/04-changes/)
 
 
+### Exploring History
 
+* The lesson is found [here](https://swcarpentry.github.io/git-novice/05-history/).
+
+* Might want to graphically draw the images contained [here](https://raw.githubusercontent.com/swcarpentry/git-novice/gh-pages/fig/git-checkout.svg) and [here](https://github.com/swcarpentry/git-novice/blob/gh-pages/fig/git_staging.svg). This might help to explain how the checkout is working.
+
+* Answer to "Recovering Older Versions of a File"
+  * Option 2
+
+* Answer to "Reverting a Commit"
+  * Could use `git log -n 5` or `git show HEAD~1 commited.txt`
   
+* Answer to "Understanding Workflow and History"
+  * Answer is option 2
+
+* Answer to "Checking Understanding of git diff"
+  * the `HEAD` component will call up the respective differences for that file in that commit
+  * for the [ID] component nothing might show up if the file is not part of that commit ID but it should doe a similar thing as `git diff HEAD`
+  
+* Might want to manually go over the last three questions since they are more of a show me type of question.
+  * "Checking Understanding", "Getting Rid of Staged Changes", and "Explore and Summarize Histories"
+
+
+
 
