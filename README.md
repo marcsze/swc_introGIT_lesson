@@ -91,6 +91,15 @@ There shouldn't be any need to get data since it will all be generated during th
 * The lesson can be found [here](https://swcarpentry.github.io/git-novice/07-github/).
 
 
+### Collaborating
+
+* Probably want to get each person in the class to partner up. I will probably partner with someone as an example. Then walk the class through each step one by one.
+
+* The lesson can be found [here](https://swcarpentry.github.io/git-novice/08-collab/).
+
+
+
+
 
 
 
