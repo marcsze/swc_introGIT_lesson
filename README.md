@@ -82,5 +82,15 @@ There shouldn't be any need to get data since it will all be generated during th
 
 * This is a pretty straightforward lesson and I can go through it as is. It can be found [here](https://swcarpentry.github.io/git-novice/06-ignore/)
 
-### 
+### Remotes in GitHub
+
+* Need to switch to the Web Graphical Interface to show how to create a remote directory that is linked to the one that was just created on their laptop.
+
+* Probably need to make sure to explain the command `git push origin master`. It is covered in the question "Push vs. Commit" and it might be a good place to bring this question up when the command first comes up.
+
+* The lesson can be found [here](https://swcarpentry.github.io/git-novice/07-github/).
+
+
+
+
 
