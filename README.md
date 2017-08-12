@@ -32,4 +32,14 @@ There shouldn't be any need to get data since it will all be generated during th
   * Should also state that if you are not comfortable with vim you should change the default editor.
 
 
+### Creating a Repository
+
+* The learners can choose where they would like to work but need to emphasize that it is important they have the directory created
+  * Stress that everything will be relative to this directory `planets`
+  
+* The specific lesson can be found [here](https://swcarpentry.github.io/git-novice/03-create/)
+  * For the question might be best to ignore the component on `.gitignore` for now. 
+
+
+
 
