@@ -19,7 +19,17 @@ There shouldn't be any need to get data since it will all be generated during th
 * At the end of the lesson (after the question) can show an example of version control with the following [repo for obesity](https://github.com/SchlossLab/Sze_Obesity_mBio_2016/commits/master). This will help to illustrate what it looks like in real life before we delve into the example problems and getting used to using the system.
 
 
+### Setting up Git
 
+* First should take them to the [main website](https://github.com/) so that they can create their own account.
+
+* Before everything gets started need to make sure that everyone has Git installed on their computers.
+  * type in `which git` onto their command line
+    * If there is a response with a path e.g. `/usr/bin/git` then things should be okay to proceed
+
+* The specific lesson can be found [here](https://swcarpentry.github.io/git-novice/02-setup/)
+  * Need to emphasize that the username should be the one they used to create the online Git account
+  * Should also state that if you are not comfortable with vim you should change the default editor.
 
 
 
