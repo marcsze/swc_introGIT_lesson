@@ -41,5 +41,20 @@ There shouldn't be any need to get data since it will all be generated during th
   * For the question might be best to ignore the component on `.gitignore` for now. 
 
 
+### Tracking Changes
 
+* Can use the provided example to pictorially describe what `git add` and `git commit` are doing
+  * ![example_overview](https://swcarpentry.github.io/git-novice/fig/git-committing.svg)
+  
+  * can highlight this is like a last chance to undo things you are unhappy with before permantely commiting to it.
+  
+* Make sure to go over the yellow tabs as they are samll scale but important. Based on the level of the class might be able to ignore "paging the log" and "limit log size". Should definitely go over "word-based diffing" and "directories"
+
+* By the end if time is permitting should go over all the questions to make sure that the concepts have stuck. Can ignore the final question on "Author and Committer" 
+
+* The lesson can be found [here](https://swcarpentry.github.io/git-novice/04-changes/)
+
+
+
+  
 
