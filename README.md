@@ -11,7 +11,7 @@ There shouldn't be any need to get data since it will all be generated during th
 
 ### Automated Version Control
 
-* The information for this lesson can be found [here](https://swcarpentry.github.io/git-novice/01-basics/). 
+* **The information for this lesson can be found [here](https://swcarpentry.github.io/git-novice/01-basics/).** 
 
 * Main Question
   * Imagine you drafted an excellent paragraph for a paper you are writing, but later ruin it. How would you retrieve the excellent version of your conclusion? Is it even possible? Imagine you have 5 co-authors. How would you manage the changes and comments they make to your paper? If you use LibreOffice Writer or Microsoft Word, what happens if you accept changes made using the Track Changes option? Do you have a history of those changes?
@@ -27,7 +27,7 @@ There shouldn't be any need to get data since it will all be generated during th
   * type in `which git` onto their command line
     * If there is a response with a path e.g. `/usr/bin/git` then things should be okay to proceed
 
-* The specific lesson can be found [here](https://swcarpentry.github.io/git-novice/02-setup/)
+* **The specific lesson can be found [here](https://swcarpentry.github.io/git-novice/02-setup/)**
   * Need to emphasize that the username should be the one they used to create the online Git account
   * Should also state that if you are not comfortable with vim you should change the default editor.
 
@@ -37,7 +37,7 @@ There shouldn't be any need to get data since it will all be generated during th
 * The learners can choose where they would like to work but need to emphasize that it is important they have the directory created
   * Stress that everything will be relative to this directory `planets`
   
-* The specific lesson can be found [here](https://swcarpentry.github.io/git-novice/03-create/)
+* **The specific lesson can be found [here](https://swcarpentry.github.io/git-novice/03-create/)**
   * For the question might be best to ignore the component on `.gitignore` for now. 
 
 
@@ -52,12 +52,12 @@ There shouldn't be any need to get data since it will all be generated during th
 
 * By the end if time is permitting should go over all the questions to make sure that the concepts have stuck. Can ignore the final question on "Author and Committer" 
 
-* The lesson can be found [here](https://swcarpentry.github.io/git-novice/04-changes/)
+* **The lesson can be found [here](https://swcarpentry.github.io/git-novice/04-changes/)**
 
 
 ### Exploring History
 
-* The lesson is found [here](https://swcarpentry.github.io/git-novice/05-history/).
+* **The lesson is found [here](https://swcarpentry.github.io/git-novice/05-history/).**
 
 * Might want to graphically draw the images contained [here](https://raw.githubusercontent.com/swcarpentry/git-novice/gh-pages/fig/git-checkout.svg) and [here](https://github.com/swcarpentry/git-novice/blob/gh-pages/fig/git_staging.svg). This might help to explain how the checkout is working.
 
@@ -80,7 +80,7 @@ There shouldn't be any need to get data since it will all be generated during th
 
 ### Ignoring Things
 
-* This is a pretty straightforward lesson and I can go through it as is. It can be found [here](https://swcarpentry.github.io/git-novice/06-ignore/)
+* This is a pretty straightforward lesson and I can go through it as is. **It can be found [here](https://swcarpentry.github.io/git-novice/06-ignore/)**
 
 ### Remotes in GitHub
 
@@ -88,19 +88,19 @@ There shouldn't be any need to get data since it will all be generated during th
 
 * Probably need to make sure to explain the command `git push origin master`. It is covered in the question "Push vs. Commit" and it might be a good place to bring this question up when the command first comes up.
 
-* The lesson can be found [here](https://swcarpentry.github.io/git-novice/07-github/).
+* **The lesson can be found [here](https://swcarpentry.github.io/git-novice/07-github/).**
 
 
 ### Collaborating
 
 * Probably want to get each person in the class to partner up. I will probably partner with someone as an example. Then walk the class through each step one by one.
 
-* The lesson can be found [here](https://swcarpentry.github.io/git-novice/08-collab/).
+* **The lesson can be found [here](https://swcarpentry.github.io/git-novice/08-collab/).**
 
 ## If time go over the Conflicts lesson and Open Science
 
-* The "Conflicts" section can be foud [here](https://swcarpentry.github.io/git-novice/09-conflict/)
-* The "Open Science" section can be found [here](https://swcarpentry.github.io/git-novice/10-open/)
+* **The "Conflicts" section can be foud [here](https://swcarpentry.github.io/git-novice/09-conflict/)**
+* **The "Open Science" section can be found [here](https://swcarpentry.github.io/git-novice/10-open/)**
 
 
 
