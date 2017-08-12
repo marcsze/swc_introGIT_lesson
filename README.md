@@ -3,7 +3,7 @@
 
 ### Preamble
 
-This repository contains all the material needed as well as a description and walkthrough of all the different topics that will be covered during the session. Have also changed the order so that the "Using Git from RStudio" is after the "Conflicts" section since it might be more important to cover this then "Open Science", "Licensing", "Citation", and "Hosting". This will be dependent on whether the learners are more interested in skills or reasons to use tools.
+This repository contains all the material needed as well as a description and walkthrough of all the different topics that will be covered during the session. 
 
 ### Obtaining Example Data Set
 
@@ -97,9 +97,10 @@ There shouldn't be any need to get data since it will all be generated during th
 
 * The lesson can be found [here](https://swcarpentry.github.io/git-novice/08-collab/).
 
+## If time go over the Conflicts lesson and Open Science
 
-
-
+* The "Conflicts" section can be foud [here](https://swcarpentry.github.io/git-novice/09-conflict/)
+* The "Open Science" section can be found [here](https://swcarpentry.github.io/git-novice/10-open/)
 
 
 
