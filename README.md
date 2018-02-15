@@ -3,7 +3,7 @@
 
 ### Preamble
 
-This repository contains all the material needed as well as a description and walkthrough of all the different topics that will be covered during the session. 
+This repository contains all the material needed as well as a description and walkthrough of all the different topics that will be covered during the session. Some places where extra help can be found are [here](https://help.github.com/) and [here](https://guides.github.com/).
 
 ### Obtaining Example Data Set
 
